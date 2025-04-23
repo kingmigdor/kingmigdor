@@ -1,11 +1,3 @@
----
-
-- 🔭 I'm currently working on [Flows](https://github.com/kingmigdor/flows).
-- 🐍 Snakes are scary, but I'm working with Python.
-- 🛸 Age: something about 17 if I'd have updated it.
-
----
-
 ### Coding Activity (last 30 days):
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@7d867ec3-87bb-41aa-b01a-390bf3365fb5/6343e76f-f477-4778-b425-86c5f05f43df.svg" /></a>
 
